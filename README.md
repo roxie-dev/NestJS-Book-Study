@@ -13,7 +13,7 @@
 <br/>
  
 
-#  <div align="center"> <h5> 🗓️ 스터디 일정 & 방식 </h5> </div> 
+#  <div align="center"> <h5> 📣 진행 방식 </h5> </div> 
 ###  ✨ 모임 정보
 
 - 모임 장소: 게더타운 
