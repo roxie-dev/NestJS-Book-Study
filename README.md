@@ -228,10 +228,8 @@
           <sub><b>MinJeung-Kim(김민정)</b></sub>
           <br />
         </a>
-        <br />
-        <a href="https://github.com/roxie-dev/NestJS-Book-Study/pulls?q=assignee%3Aabp1234">
-          <img src="https://img.shields.io/badge/출석-0%2F10-blue?style=flat-square"/>
-        </a>
+        <br /> 
+          <img src="https://img.shields.io/badge/출석률-0%2F10-blue?style=flat-square"/> 
         <br />
         <a href="https://github.com/roxie-dev/NestJS-Book-Study/pulls?q=assignee%3AMinJeung-Kim">
           <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
