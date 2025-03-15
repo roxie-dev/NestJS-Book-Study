@@ -16,7 +16,7 @@
 #  <div align="center"> <h5> 📢 진행 방식 </h5> </div>
 ### ✔️ 스터디 시간
     - 장소 : 게더타운
-    - 일시 : 주 2회 🕒22:00 - 21:00
+    - 일시 : 주 2회 🕒21:00 - 22:00
 
 ### ✔️ 진행 방식
 - 스터디 일정표를 참고하여 해당 일자에 지정된 챕터를 학습합니다.
@@ -221,14 +221,17 @@
 <div align="center">
   <table>
     <tr>
+      <td align="center"> 
+          <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민"/>  
+      </td>
+    </tr>
+     <tr>
       <td align="center">
-        <a href="https://github.com/MinJeung-Kim">
-          <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민"/>
-          <br />
-          <sub><b>MinJeung-Kim(김민정)</b></sub>
-          <br />
-        </a>
-        <br /> 
+   <a href="https://github.com/MinJeung-Kim"> <b>MinJeung-Kim(김민정)</b>   </a> 
+      </td>
+     </tr>
+     <tr>
+      <td align="center"> 
           <img src="https://img.shields.io/badge/출석률-0%2F10-blue?style=flat-square"/> 
         <br />
         <a href="https://github.com/roxie-dev/NestJS-Book-Study/pulls?q=assignee%3AMinJeung-Kim">
@@ -236,4 +239,5 @@
         </a>
         <br />
       </td>
-
+     </tr>
+  </table>
