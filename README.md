@@ -28,6 +28,7 @@
 - 타인의 의견에 대한 비난, 훈계를 삼가해주세요. 
 - 한 사람씩 돌아가며 10분 이내 본인이 공부한 내용 설명하는 시간 갖기.
 - 개인사정으로 지각, 불참 할 경우 스터디 하루 전날이라도 공지해주는 최소한의 예의를 지켜주세요.
+- 스터디와 관련 없는 개인적인 얘기 또는 스터디원의 시간을 뺏는 10분 이상의 잡담을 지양해 주세요.
 
 <br/>
 <br/>
@@ -213,3 +214,28 @@
 
 <br/>
 <br/>
+
+
+#  <div align="center"> <h5> 👋 스터디원 소개 </h5> </div> 
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MinJeung-Kim">
+          <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민"/>
+          <br />
+          <sub><b>MinJeung-Kim(김민정)</b></sub>
+          <br />
+        </a>
+        <br />
+        <a href="https://github.com/roxie-dev/NestJS-Book-Study/pulls?q=assignee%3Aabp1234">
+          <img src="https://img.shields.io/badge/출석-0%2F10-blue?style=flat-square"/>
+        </a>
+        <br />
+        <a href="https://github.com/roxie-dev/NestJS-Book-Study/pulls?q=assignee%3AMinJeung-Kim">
+          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
+        </a>
+        <br />
+      </td>
+
