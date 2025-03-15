@@ -13,22 +13,37 @@
 <br/>
  
 
-#  <div align="center"> <h5> 📢 진행 방식 </h5> </div>
-### ✔️ 스터디 시간
-    - 장소 : 게더타운
-    - 일시 : 주 2회 🕒21:00 - 22:00
+#  <div align="center"> <h5> 🗓️ 스터디 일정 & 방식 </h5> </div> 
+###  ✨ 모임 정보
 
-### ✔️ 진행 방식
-- 스터디 일정표를 참고하여 해당 일자에 지정된 챕터를 학습합니다.
-- 학습한 내용을 정리한 후, 해당 주차 폴더에 '[작성자이름].md' 파일을 생성합니다.
-- 작성한 마크다운 파일을 GitHub 저장소에 업로드합니다. 
+- 모임 장소: 게더타운 
+- 모임 시간: 매주 수요일 저녁 🕒 9:00 - 10:00
  
+<br />
 
-### ✔️ 규칙
-- 타인의 의견에 대한 비난, 훈계를 삼가해주세요. 
-- 한 사람씩 돌아가며 10분 이내 본인이 공부한 내용 설명하는 시간 갖기.
-- 개인사정으로 지각, 불참 할 경우 스터디 하루 전날이라도 공지해주는 최소한의 예의를 지켜주세요.
-- 스터디와 관련 없는 개인적인 얘기 또는 스터디원의 시간을 뺏는 10분 이상의 잡담을 지양해 주세요.
+###  🚀 참여 방법
+
+- 주차별 학습 일정표에 맞춰 해당 챕터를 미리 공부해요
+- 학습한 내용을 정리해서 해당 주차 폴더에 '[내이름].md' 파일로 기록해요
+- 작성한 내용을 우리 스터디 GitHub 저장소에 올려서 모두와 공유해요  
+
+ 
+<br />
+
+###  🌱 스터디 함께하기 가이드라인 🌱
+
+- 서로의 의견을 존중하고 건설적인 피드백을 나눠요.  
+- 매 모임마다 10분 정도 자신이 공부한 내용을 편하게 공유해요.  
+- 참석이 어려울 땐 하루 전에 미리 알려주시면 모두가 일정 조율하기 좋아요.  
+- 즐거운 대화도 좋지만, 모두의 시간을 고려해 주제에 집중해요.  
+- 모두의 꾸준한 참여를 위해 15,000원의 작은 약속금을 모아요.  
+- 끝까지 함께하면 전액 돌려받거나 맛있는 회식으로 함께 즐겨요!
+- 3번 이상 지각하거나 3번 이상 불참하게 되면 아쉽게도 함께 하기 어렵게 될 수 있어요.  
+- 이 경우 약속금은 스터디 운영에 활용될 예정이에요.
+
+
+
+즐겁고 유익한 스터디를 함께 만들어가요! 💪✨
 
 <br/>
 <br/>
@@ -42,7 +57,7 @@
   </tr>
   <tr>
     <td>1/3(수)</td>
-    <td  colspan="4">OT (1장 - NestJS를 공부하게 된 이유 및 자기소개)</td>
+    <td  colspan="4">OT :  NestJS를 공부하게 된 이유 및 자기소개</td>
   </tr>
   <tr>
     <th colspan="5">1주차</th>
@@ -61,16 +76,16 @@
     <td><a href="#">문제</a></td>
     <td> <b>김민정</b></td> 
   </tr>
-  <tr>
-    <th colspan="5">2주차</th>
-  </tr>
-  <tr>
+   <tr>
     <td>1/3(수)</td>
     <td> <b>[4장] 핵심 도메인 로직을 포함하는 프로바이더</b></td>
     <td><a href="#">정리</a></td>
     <td><a href="#">문제</a></td>
     <td> <b>김민정</b></td> 
   </tr>
+  <tr>
+    <th colspan="5">2주차</th>
+  </tr> 
    <tr>
     <td>1/3(수)</td>
     <td> <b>[5장] SW 복잡도를 낮추기 위한 모듈 설계</b></td>
@@ -79,41 +94,29 @@
     <td> <b>김민정</b></td> 
   </tr>
   <tr>
-    <th colspan="5">3주차</th>
-  </tr>
-  <tr>
     <td>1/3(수)</td>
     <td> <b>[6장] 동적 모듈을 활용한 환경 변수 구성</b></td>
     <td><a href="#">정리</a></td>
     <td><a href="#">문제</a></td>
     <td> <b>김민정</b></td> 
   </tr>
-   <tr>
-    <td>1/3(수)</td>
-    <td> <b>[3장] 애플리케이션의 관문: 인터페이스</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
-  </tr>
-   <tr>
-    <th colspan="5">4주차</th>
-  </tr>
-  <tr>
+    <tr>
     <td>1/3(수)</td>
     <td> <b>[7장] 파이프와 유효성 검사: 요청이 제대로 전달되었는가</b></td>
     <td><a href="#">정리</a></td>
     <td><a href="#">문제</a></td>
     <td> <b>김민정</b></td> 
   </tr>
+  <tr>
+    <th colspan="5">3주차</th>
+  </tr>
+  
    <tr>
     <td>1/3(수)</td>
     <td> <b>[8장] 영속화: 데이터를 기역하고 다루기</b></td>
     <td><a href="#">정리</a></td>
     <td><a href="#">문제</a></td>
     <td> <b>김민정</b></td> 
-  </tr>
-   <tr>
-    <th colspan="5">5주차</th>
   </tr>
   <tr>
     <td>1/3(수)</td>
@@ -130,9 +133,9 @@
     <td> <b>김민정</b></td> 
   </tr>
    <tr>
-    <th colspan="5">6주차</th>
+    <th colspan="5">4주차</th>
   </tr>
-  <tr>
+   <tr>
     <td>1/3(수)</td>
     <td> <b>[11장] 로깅: 애플리케이션의 동작 기록</b></td>
     <td><a href="#">정리</a></td>
@@ -147,14 +150,14 @@
     <td> <b>김민정</b></td> 
   </tr>
   <tr>
-    <th colspan="5">7주차</th>
-  </tr>
-  <tr>
     <td>1/3(수)</td>
     <td> <b>[13장] 인터셉터로 요청과 응답을 입맛에 맞게 바꾸기</b></td>
     <td><a href="#">정리</a></td>
     <td><a href="#">문제</a></td>
     <td> <b>김민정</b></td> 
+  </tr>
+   <tr>
+    <th colspan="5">5주차</th>
   </tr>
    <tr>
     <td>1/3(수)</td>
@@ -163,10 +166,7 @@
     <td><a href="#">문제</a></td>
     <td> <b>김민정</b></td> 
   </tr>
-  <tr>
-    <th colspan="5">8주차</th>
-  </tr>
-  <tr>
+    <tr>
     <td>1/3(수)</td>
     <td> <b>[15장] 헬스 체크: 댁의 서버는 건강하신가요</b></td>
     <td><a href="#">정리</a></td>
@@ -180,10 +180,10 @@
     <td><a href="#">문제</a></td>
     <td> <b>김민정</b></td> 
   </tr>
-  <tr>
-    <th colspan="5">9주차</th>
+   <tr>
+    <th colspan="5">6주차</th>
   </tr>
-  <tr>
+ <tr>
     <td>1/3(수)</td>
     <td> <b>[17장] 클린 아키텍처</b></td>
     <td><a href="#">정리</a></td>
@@ -198,18 +198,16 @@
     <td> <b>김민정</b></td> 
   </tr>
   <tr>
-    <th colspan="5">10주차</th>
+    <th colspan="5">7주차</th>
   </tr>
-  <tr>
+ <tr>
     <td>1/3(수)</td>
     <td> <b> 오프라인 스터디([A] ormconfig.json) & 회식</b></td>
     <td><a href="#">정리</a></td>
     <td><a href="#">문제</a></td>
     <td> <b>김민정</b></td> 
-  </tr>
-    
-</table>
-
+  </tr>  
+</table> 
 </div>
 
 <br/>
@@ -222,22 +220,20 @@
   <table>
     <tr>
       <td align="center"> 
-          <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민"/>  
+          <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민정"/>  
+        <br/>
+         <img src="https://img.shields.io/badge/출석률-0%2F10-blue?style=flat-square"/>  
       </td>
     </tr>
      <tr>
-      <td align="center">
-   <a href="https://github.com/MinJeung-Kim"> <b>MinJeung-Kim(김민정)</b>   </a> 
+      <td align="center"> 
+         김민정
       </td>
      </tr>
      <tr>
-      <td align="center"> 
-          <img src="https://img.shields.io/badge/출석률-0%2F10-blue?style=flat-square"/> 
-        <br />
-        <a href="https://github.com/roxie-dev/NestJS-Book-Study/pulls?q=assignee%3AMinJeung-Kim">
-          <img src="https://img.shields.io/badge/PR-보러가기-blueviolet?style=flat-square"/>
-        </a>
-        <br />
+      <td align="center">
+       <a href="https://github.com/MinJeung-Kim"> <b>@MinJeung-Kim</b></a> 
       </td>
      </tr>
+    
   </table>
