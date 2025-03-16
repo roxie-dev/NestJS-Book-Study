@@ -205,10 +205,7 @@
   </tr>
  <tr>
     <td>1/3(수)</td>
-    <td> <b> 오프라인 스터디([A] ormconfig.json) & 회식</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td colspan="5"> <b> 오프라인 스터디([A] ormconfig.json) & 회식</b></td> 
   </tr>  
 </table> 
 </div>
