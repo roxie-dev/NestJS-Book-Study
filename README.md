@@ -67,139 +67,106 @@
     <th colspan="5">1주차</th>
   </tr>
   <tr>
-    <td>1/3(수)</td>
+    <td rowspan="3">1/3(수)</td>
     <td> <b>[2장] 웹 개발 기초 지식</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/1%EC%A3%BC/%5B2%EC%9E%A5%5D%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D">정리</a></td>
+    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"> <b>김민정</b></td> 
   </tr>
-   <tr>
-    <td>1/3(수)</td>
+   <tr> 
     <td> <b>[3장] 애플리케이션의 관문: 인터페이스</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/1%EC%A3%BC/%5B3%EC%9E%A5%5D%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EA%B4%80%EB%AC%B8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4">정리</a></td>  
   </tr>
-   <tr>
-    <td>1/3(수)</td>
+   <tr> 
     <td> <b>[4장] 핵심 도메인 로직을 포함하는 프로바이더</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/1%EC%A3%BC/%5B4%EC%9E%A5%5D%20%ED%95%B5%EC%8B%AC%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%A1%9C%EC%A7%81%EC%9D%84%20%ED%8F%AC%ED%95%A8%ED%95%98%EB%8A%94%20%ED%94%84%EB%A1%9C%EB%B0%94%EC%9D%B4%EB%8D%94">정리</a></td>  
   </tr>
   <tr>
     <th colspan="5">2주차</th>
   </tr> 
    <tr>
-    <td>1/3(수)</td>
+    <td rowspan="3">1/3(수)</td>
     <td> <b>[5장] SW 복잡도를 낮추기 위한 모듈 설계</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/2%EC%A3%BC/%5B5%EC%9E%A5%5D%20SW%20%EB%B3%B5%EC%9E%A1%EB%8F%84%EB%A5%BC%20%EB%82%AE%EC%B6%94%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EB%AA%A8%EB%93%88%20%EC%84%A4%EA%B3%84">정리</a></td>
+    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"> <b>김민정</b></td> 
   </tr>
-  <tr>
-    <td>1/3(수)</td>
+  <tr> 
     <td> <b>[6장] 동적 모듈을 활용한 환경 변수 구성</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/2%EC%A3%BC/%5B6%EC%9E%A5%5D%20%EB%8F%99%EC%A0%81%20%EB%AA%A8%EB%93%88%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%ED%99%98%EA%B2%BD%20%EB%B3%80%EC%88%98%20%EA%B5%AC%EC%84%B1">정리</a></td> 
   </tr>
-    <tr>
-    <td>1/3(수)</td>
+    <tr> 
     <td> <b>[7장] 파이프와 유효성 검사: 요청이 제대로 전달되었는가</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/2%EC%A3%BC/%5B7%EC%9E%A5%5D%20%ED%8C%8C%EC%9D%B4%ED%94%84%EC%99%80%20%EC%9C%A0%ED%9A%A8%EC%84%B1%20%EA%B2%80%EC%82%AC-%EC%9A%94%EC%B2%AD%EC%9D%B4%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EC%A0%84%EB%8B%AC%EB%90%98%EC%97%88%EB%8A%94%EA%B0%80">정리</a></td> 
   </tr>
   <tr>
     <th colspan="5">3주차</th>
   </tr>
   
    <tr>
-    <td>1/3(수)</td>
+    <td rowspan="3">1/3(수)</td>
     <td> <b>[8장] 영속화: 데이터를 기역하고 다루기</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/3%EC%A3%BC/%5B8%EC%9E%A5%5D%20%EC%98%81%EC%86%8D%ED%99%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EA%B8%B0%EC%97%AD%ED%95%98%EA%B3%A0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0">정리</a></td>
+    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"> <b>김민정</b></td> 
   </tr>
-  <tr>
-    <td>1/3(수)</td>
+  <tr> 
     <td> <b>[9장] 요청 처리 전에 부가 기능을 수행하기 위한 미들웨어</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/3%EC%A3%BC/%5B9%EC%9E%A5%5D%20%EC%9A%94%EC%B2%AD%20%EC%B2%98%EB%A6%AC%20%EC%A0%84%EC%97%90%20%EB%B6%80%EA%B0%80%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%EC%88%98%ED%96%89%ED%95%98%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4">정리</a></td> 
   </tr>
-   <tr>
-    <td>1/3(수)</td>
+   <tr> 
     <td> <b>[10장] 권한 확인을 위한 가드: JWT 인증/인가</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/3%EC%A3%BC/%5B10%EC%9E%A5%5D%20%EA%B6%8C%ED%95%9C%20%ED%99%95%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B0%80%EB%93%9C-%20JWT%20%EC%9D%B8%EC%A6%9D">정리</a></td> 
   </tr>
    <tr>
     <th colspan="5">4주차</th>
   </tr>
    <tr>
-    <td>1/3(수)</td>
+    <td rowspan="3">1/3(수)</td>
     <td> <b>[11장] 로깅: 애플리케이션의 동작 기록</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/4%EC%A3%BC/%5B11%EC%9E%A5%5D%20%EB%A1%9C%EA%B9%85-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EA%B8%B0%EB%A1%9D">정리</a></td>
+    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"> <b>김민정</b></td> 
   </tr>
-   <tr>
-    <td>1/3(수)</td>
+   <tr> 
     <td> <b>[12장] 모든 것은 항상 실패한다: 예외 필터</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/4%EC%A3%BC/%5B12%EC%9E%A5%5D%20%EB%AA%A8%EB%93%A0%20%EA%B2%83%EC%9D%80%20%ED%95%AD%EC%83%81%20%EC%8B%A4%ED%8C%A8%ED%95%9C%EB%8B%A4-%EC%98%88%EC%99%B8%20%ED%95%84%ED%84%B0">정리</a></td> 
   </tr>
-  <tr>
-    <td>1/3(수)</td>
+  <tr> 
     <td> <b>[13장] 인터셉터로 요청과 응답을 입맛에 맞게 바꾸기</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/4%EC%A3%BC/%5B13%EC%9E%A5%5D%20%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0%EB%A1%9C%20%EC%9A%94%EC%B2%AD%EA%B3%BC%20%EC%9D%91%EB%8B%B5%EC%9D%84%20%EC%9E%85%EB%A7%9B%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EB%B0%94%EA%BE%B8%EA%B8%B0">정리</a></td> 
   </tr>
    <tr>
     <th colspan="5">5주차</th>
   </tr>
    <tr>
-    <td>1/3(수)</td>
+    <td rowspan="3">1/3(수)</td>
     <td> <b>[14장] 태스크 스케줄링</b></td>
     <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"> <b>김민정</b></td> 
   </tr>
-    <tr>
-    <td>1/3(수)</td>
+    <tr> 
     <td> <b>[15장] 헬스 체크: 댁의 서버는 건강하신가요</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="#">정리</a></td> 
   </tr>
-   <tr>
-    <td>1/3(수)</td>
+   <tr> 
     <td> <b>[16장] CQRS를 이용한 관심사 분리</b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="#">정리</a></td> 
   </tr>
    <tr>
     <th colspan="5">6주차</th>
   </tr>
  <tr>
-    <td>1/3(수)</td>
+    <td rowspan="2">1/3(수)</td>
     <td> <b>[17장] 클린 아키텍처</b></td>
     <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td rowspan="2"><a href="#">문제</a></td>
+    <td rowspan="2"> <b>김민정</b></td> 
   </tr>
-   <tr>
-    <td>1/3(수)</td>
+   <tr> 
     <td> <b>[18장] 테스트자동화 </b></td>
-    <td><a href="#">정리</a></td>
-    <td><a href="#">문제</a></td>
-    <td> <b>김민정</b></td> 
+    <td><a href="#">정리</a></td> 
   </tr>
   <tr>
     <th colspan="5">7주차</th>
