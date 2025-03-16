@@ -67,11 +67,11 @@
     <th colspan="5">1주차</th>
   </tr>
   <tr>
-    <td rowspan="3">4/2(수)</td>
+    <td rowspan="2">4/2(수)</td>
     <td> <b>[3장] 애플리케이션의 관문: 인터페이스</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/1%EC%A3%BC/%5B3%EC%9E%A5%5D%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EA%B4%80%EB%AC%B8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4">정리</a></td>  
-    <td rowspan="3"><a href="#">문제</a></td>
-    <td rowspan="3"> <b>김민정</b></td> 
+    <td rowspan="2"><a href="#">문제</a></td>
+    <td rowspan="2"> <b>김민정</b></td> 
   </tr> 
    <tr> 
     <td> <b>[4장] 핵심 도메인 로직을 포함하는 프로바이더</b></td>
