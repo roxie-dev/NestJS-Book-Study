@@ -27,7 +27,7 @@
 - 발표자: 매주 돌아가며 한 명이 발표를 준비해요 (10분 내외)
 - 정리 내용은 해당 주차 폴더에 '[내이름].md' 파일로 기록 해주세요 
 - 발표자 외 스터디원:
-    - 해당 챕터에 대한 문제를 스터디 하루 전까지 [discussions > Q&A](https://github.com/orgs/roxie-dev/discussions/categories/q-a)에 올려주세요
+    - 해당 챕터에 대한 문제를 스터디 하루 전까지 [discussions > Q&A](https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a)에 올려주세요
     - 질문은 템플릿을 참고하여 작성해 주세요.
     - 스터디 당일 모임 시작 1시간 전까지 문제의 정답을 업로드해주세요  
 
