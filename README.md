@@ -4,7 +4,7 @@
   
 <div align="center">
    
-| <h5> 🗓️ 25/03/15 ~ 25/04/15 </h5> |
+| <h5> 🗓️ 25/03/26 ~ 25/05/07 </h5> |
 | --- |
 | <img width="200" alt="image" src="https://github.com/user-attachments/assets/fe724431-2822-4420-a271-f162f762dca6"/> |
 
@@ -60,14 +60,14 @@
     <th colspan="5">0주차</th>
   </tr>
   <tr>
-    <td>1/3(수)</td>
+    <td>3/26(수)</td>
     <td  colspan="4">OT :  NestJS를 공부하게 된 이유 및 자기소개</td>
   </tr>
   <tr>
     <th colspan="5">1주차</th>
   </tr>
   <tr>
-    <td rowspan="3">1/3(수)</td>
+    <td rowspan="3">4/2(수)</td>
     <td> <b>[2장] 웹 개발 기초 지식</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/1%EC%A3%BC/%5B2%EC%9E%A5%5D%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D">정리</a></td>
     <td rowspan="3"><a href="#">문제</a></td>
@@ -85,7 +85,7 @@
     <th colspan="5">2주차</th>
   </tr> 
    <tr>
-    <td rowspan="3">1/3(수)</td>
+    <td rowspan="3">4/9(수)</td>
     <td> <b>[5장] SW 복잡도를 낮추기 위한 모듈 설계</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/2%EC%A3%BC/%5B5%EC%9E%A5%5D%20SW%20%EB%B3%B5%EC%9E%A1%EB%8F%84%EB%A5%BC%20%EB%82%AE%EC%B6%94%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EB%AA%A8%EB%93%88%20%EC%84%A4%EA%B3%84">정리</a></td>
     <td rowspan="3"><a href="#">문제</a></td>
@@ -104,7 +104,7 @@
   </tr>
   
    <tr>
-    <td rowspan="3">1/3(수)</td>
+    <td rowspan="3">4/16(수)</td>
     <td> <b>[8장] 영속화: 데이터를 기역하고 다루기</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/3%EC%A3%BC/%5B8%EC%9E%A5%5D%20%EC%98%81%EC%86%8D%ED%99%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EA%B8%B0%EC%97%AD%ED%95%98%EA%B3%A0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0">정리</a></td>
     <td rowspan="3"><a href="#">문제</a></td>
@@ -122,7 +122,7 @@
     <th colspan="5">4주차</th>
   </tr>
    <tr>
-    <td rowspan="3">1/3(수)</td>
+    <td rowspan="3">4/23(수)</td>
     <td> <b>[11장] 로깅: 애플리케이션의 동작 기록</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/4%EC%A3%BC/%5B11%EC%9E%A5%5D%20%EB%A1%9C%EA%B9%85-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EA%B8%B0%EB%A1%9D">정리</a></td>
     <td rowspan="3"><a href="#">문제</a></td>
@@ -140,39 +140,39 @@
     <th colspan="5">5주차</th>
   </tr>
    <tr>
-    <td rowspan="3">1/3(수)</td>
+    <td rowspan="3">4/30(수)</td>
     <td> <b>[14장] 태스크 스케줄링</b></td>
-    <td><a href="#">정리</a></td>
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/5%EC%A3%BC/%5B14%EC%9E%A5%5D%20%ED%83%9C%EC%8A%A4%ED%81%AC%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81">정리</a></td>
     <td rowspan="3"><a href="#">문제</a></td>
     <td rowspan="3"> <b>김민정</b></td> 
   </tr>
     <tr> 
     <td> <b>[15장] 헬스 체크: 댁의 서버는 건강하신가요</b></td>
-    <td><a href="#">정리</a></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/5%EC%A3%BC/%5B15%EC%9E%A5%5D%20%ED%97%AC%EC%8A%A4%20%EC%B2%B4%ED%81%AC-%EB%8C%81%EC%9D%98%20%EC%84%9C%EB%B2%84%EB%8A%94%20%EA%B1%B4%EA%B0%95%ED%95%98%EC%8B%A0%EA%B0%80%EC%9A%94">정리</a></td> 
   </tr>
    <tr> 
     <td> <b>[16장] CQRS를 이용한 관심사 분리</b></td>
-    <td><a href="#">정리</a></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/5%EC%A3%BC/%5B16%EC%9E%A5%5D%20CQRS%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B4%80%EC%8B%AC%EC%82%AC%20%EB%B6%84%EB%A6%AC">정리</a></td> 
   </tr>
    <tr>
     <th colspan="5">6주차</th>
   </tr>
  <tr>
-    <td rowspan="2">1/3(수)</td>
+    <td rowspan="2">5/7(수)</td>
     <td> <b>[17장] 클린 아키텍처</b></td>
-    <td><a href="#">정리</a></td>
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/6%EC%A3%BC/%5B17%EC%9E%A5%5D%20%ED%81%B4%EB%A6%B0%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98">정리</a></td>
     <td rowspan="2"><a href="#">문제</a></td>
     <td rowspan="2"> <b>김민정</b></td> 
   </tr>
    <tr> 
     <td> <b>[18장] 테스트자동화 </b></td>
-    <td><a href="#">정리</a></td> 
+    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/6%EC%A3%BC/%5B18%EC%9E%A5%5D%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9E%90%EB%8F%99%ED%99%94">정리</a></td> 
   </tr>
   <tr>
     <th colspan="5">7주차</th>
   </tr>
  <tr>
-    <td>1/3(수)</td>
+    <td>협의</td>
     <td colspan="5"> <b> 오프라인 스터디([A] ormconfig.json) & 회식</b></td> 
   </tr>  
 </table> 
