@@ -68,15 +68,11 @@
   </tr>
   <tr>
     <td rowspan="3">4/2(수)</td>
-    <td> <b>[2장] 웹 개발 기초 지식</b></td>
-    <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/1%EC%A3%BC/%5B2%EC%9E%A5%5D%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88%20%EC%A7%80%EC%8B%9D">정리</a></td>
-    <td rowspan="3"><a href="#">문제</a></td>
-    <td rowspan="3"> <b>김민정</b></td> 
-  </tr>
-   <tr> 
     <td> <b>[3장] 애플리케이션의 관문: 인터페이스</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/1%EC%A3%BC/%5B3%EC%9E%A5%5D%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EA%B4%80%EB%AC%B8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4">정리</a></td>  
-  </tr>
+    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"> <b>김민정</b></td> 
+  </tr> 
    <tr> 
     <td> <b>[4장] 핵심 도메인 로직을 포함하는 프로바이더</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/1%EC%A3%BC/%5B4%EC%9E%A5%5D%20%ED%95%B5%EC%8B%AC%20%EB%8F%84%EB%A9%94%EC%9D%B8%20%EB%A1%9C%EC%A7%81%EC%9D%84%20%ED%8F%AC%ED%95%A8%ED%95%98%EB%8A%94%20%ED%94%84%EB%A1%9C%EB%B0%94%EC%9D%B4%EB%8D%94">정리</a></td>  
