@@ -225,7 +225,7 @@
       <td align="center"> 
           <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민정"/>  
         <br/>
-         <img src="https://img.shields.io/badge/출석률-0%2F7-blue?style=flat-square"/>  
+         <img src="https://img.shields.io/badge/출석률-0%2F6-blue?style=flat-square"/>  
       </td>
     </tr>
      <tr>
