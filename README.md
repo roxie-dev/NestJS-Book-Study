@@ -182,22 +182,25 @@
 
 <div align="center">
   <table>
-    <tr>
-      <td align="center"> 
-          <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민정"/>  
-        <br/>
-         <img src="https://img.shields.io/badge/출석률-0%2F6-blue?style=flat-square"/>  
-      </td>
-    </tr>
-     <tr>
-      <td align="center"> 
-         김민정
-      </td>
-     </tr>
-     <tr>
-      <td align="center">
-       <a href="https://github.com/MinJeung-Kim"> <b>@MinJeung-Kim</b></a> 
-      </td>
-     </tr>
-    
-  </table>
+  <tr>
+    <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민정"/>  
+      <br/>
+      <img src="https://img.shields.io/badge/출석률-0%2F6-blue?style=flat-square"/>  
+      <br/>
+      김민정
+      <br/>
+      <a href="https://github.com/MinJeung-Kim"><b>@MinJeung-Kim</b></a> 
+    </td>
+    <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/59562141?v=4" width="100px;" alt="이지윤"/>  
+      <br/>
+      <img src="https://img.shields.io/badge/출석률-0%2F6-blue?style=flat-square"/>  
+      <br/>
+      이지윤
+      <br/>
+      <a href="https://github.com/jiyoon-lee"><b>@jiyoon-lee</b></a> 
+    </td>
+  </tr>
+</table>
+</div>
