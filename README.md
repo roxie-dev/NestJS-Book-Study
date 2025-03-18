@@ -201,6 +201,15 @@
       <br/>
       <a href="https://github.com/jiyoon-lee"><b>@jiyoon-lee</b></a> 
     </td>
+    <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/52841715?v=4" width="100px;" alt="위성원"/>  
+      <br/>
+      <img src="https://img.shields.io/badge/출석률-0%2F6-blue?style=flat-square"/>  
+      <br/>
+      위성원
+      <br/>
+      <a href="https://github.com/WISUNGWON"><b>@WISUNGWON</b></a> 
+    </td>
   </tr>
 </table>
 </div>
