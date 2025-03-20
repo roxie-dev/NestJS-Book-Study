@@ -210,6 +210,15 @@
       <br/>
       <a href="https://github.com/WISUNGWON"><b>@WISUNGWON</b></a> 
     </td>
+    <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/101305955?v=4" width="100px;" alt="권예지"/>  
+      <br/>
+      <img src="https://img.shields.io/badge/출석률-0%2F6-blue?style=flat-square"/>  
+      <br/>
+      권예지
+      <br/>
+      <a href="https://github.com/mylazysundaycat"><b>@GwonYeJi</b></a> 
+    </td>
   </tr>
 </table>
 </div>
