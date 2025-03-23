@@ -219,6 +219,24 @@
       <br/>
       <a href="https://github.com/mylazysundaycat"><b>@GwonYeJi</b></a> 
     </td>
+      <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/62707089?v=4" width="100px;" alt="이보라"/>  
+      <br/>
+      <img src="https://img.shields.io/badge/출석률-0%2F6-blue?style=flat-square"/>  
+      <br/>
+      이보라
+      <br/>
+      <a href="https://github.com/mylazysundaycat"><b>@Bora Lee</b></a> 
+    </td>
+      <td align="center"> 
+      <img src="https://avatars.githubusercontent.com/u/67853616?v=4" width="100px;" alt="장아연"/>  
+      <br/>
+      <img src="https://img.shields.io/badge/출석률-0%2F6-blue?style=flat-square"/>  
+      <br/>
+      장아연
+      <br/>
+      <a href="https://github.com/mylazysundaycat"><b>@JangAyeon</b></a> 
+    </td>
   </tr>
 </table>
 </div>
