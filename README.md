@@ -226,7 +226,7 @@
       <br/>
       이보라
       <br/>
-      <a href="https://github.com/mylazysundaycat"><b>@Bora Lee</b></a> 
+      <a href="https://github.com/Myriam-Bora"><b>@Bora Lee</b></a> 
     </td>
       <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/67853616?v=4" width="100px;" alt="장아연"/>  
@@ -235,7 +235,7 @@
       <br/>
       장아연
       <br/>
-      <a href="https://github.com/mylazysundaycat"><b>@JangAyeon</b></a> 
+      <a href="https://github.com/JangAyeon"><b>@JangAyeon</b></a> 
     </td>
   </tr>
 </table>
