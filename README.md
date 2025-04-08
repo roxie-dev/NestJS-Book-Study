@@ -70,7 +70,7 @@
     <td rowspan="2">4/2(수)</td>
     <td> <b>[3장] 애플리케이션의 관문: 인터페이스</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/1%EC%A3%BC/%5B3%EC%9E%A5%5D%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EA%B4%80%EB%AC%B8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4">정리</a></td>  
-    <td rowspan="2"><a href="#">문제</a></td>
+    <td rowspan="2"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
     <td rowspan="2"> <b>이보라</b></td> 
   </tr> 
    <tr> 
@@ -84,7 +84,7 @@
     <td rowspan="3">4/9(수)</td>
     <td> <b>[5장] SW 복잡도를 낮추기 위한 모듈 설계</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/2%EC%A3%BC/%5B5%EC%9E%A5%5D%20SW%20%EB%B3%B5%EC%9E%A1%EB%8F%84%EB%A5%BC%20%EB%82%AE%EC%B6%94%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EB%AA%A8%EB%93%88%20%EC%84%A4%EA%B3%84">정리</a></td>
-    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
     <td rowspan="3"> <b>이지윤</b></td> 
   </tr>
   <tr> 
@@ -103,7 +103,7 @@
     <td rowspan="3">4/16(수)</td>
     <td> <b>[8장] 영속화: 데이터를 기역하고 다루기</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/3%EC%A3%BC/%5B8%EC%9E%A5%5D%20%EC%98%81%EC%86%8D%ED%99%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EA%B8%B0%EC%97%AD%ED%95%98%EA%B3%A0%20%EB%8B%A4%EB%A3%A8%EA%B8%B0">정리</a></td>
-    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
     <td rowspan="3"> <b>김민정</b></td> 
   </tr>
   <tr> 
@@ -121,7 +121,7 @@
     <td rowspan="3">4/23(수)</td>
     <td> <b>[11장] 로깅: 애플리케이션의 동작 기록</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/4%EC%A3%BC/%5B11%EC%9E%A5%5D%20%EB%A1%9C%EA%B9%85-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EA%B8%B0%EB%A1%9D">정리</a></td>
-    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
     <td rowspan="3"> <b>권예지</b></td> 
   </tr>
    <tr> 
@@ -139,7 +139,7 @@
     <td rowspan="3">4/30(수)</td>
     <td> <b>[14장] 태스크 스케줄링</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/5%EC%A3%BC/%5B14%EC%9E%A5%5D%20%ED%83%9C%EC%8A%A4%ED%81%AC%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81">정리</a></td>
-    <td rowspan="3"><a href="#">문제</a></td>
+    <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
     <td rowspan="3"> <b>위성원</b></td> 
   </tr>
     <tr> 
@@ -157,7 +157,7 @@
     <td rowspan="2">5/7(수)</td>
     <td> <b>[17장] 클린 아키텍처</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/6%EC%A3%BC/%5B17%EC%9E%A5%5D%20%ED%81%B4%EB%A6%B0%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98">정리</a></td>
-    <td rowspan="2"><a href="#">문제</a></td>
+    <td rowspan="2"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
     <td rowspan="2"> <b>장아연</b></td> 
   </tr>
    <tr> 
