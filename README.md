@@ -122,7 +122,7 @@
     <td> <b>[11장] 로깅: 애플리케이션의 동작 기록</b></td>
     <td><a href="https://github.com/roxie-dev/NestJS-Book-Study/tree/main/4%EC%A3%BC/%5B11%EC%9E%A5%5D%20%EB%A1%9C%EA%B9%85-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EA%B8%B0%EB%A1%9D">정리</a></td>
     <td rowspan="3"><a href="https://github.com/roxie-dev/NestJS-Book-Study/discussions/categories/q-a">문제</a></td>
-    <td rowspan="3"> <b>권예지</b></td> 
+    <td rowspan="3"> <b>장아연</b></td> 
   </tr>
    <tr> 
     <td> <b>[12장] 모든 것은 항상 실패한다: 예외 필터</b></td>
@@ -192,7 +192,7 @@
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민정"/>  
       <br/>
-      <img src="https://img.shields.io/badge/출석률-2%2F6-blue?style=flat-square"/>  
+      <img src="https://img.shields.io/badge/출석률-3%2F6-blue?style=flat-square"/>  
       <br/>
       김민정
       <br/>
@@ -201,7 +201,7 @@
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/59562141?v=4" width="100px;" alt="이지윤"/>  
       <br/>
-      <img src="https://img.shields.io/badge/출석률-2%2F6-blue?style=flat-square"/>  
+      <img src="https://img.shields.io/badge/출석률-3%2F6-blue?style=flat-square"/>  
       <br/>
       이지윤
       <br/>
@@ -228,7 +228,7 @@
       <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/62707089?v=4" width="100px;" alt="이보라"/>  
       <br/>
-      <img src="https://img.shields.io/badge/출석률-2%2F6-blue?style=flat-square"/>  
+      <img src="https://img.shields.io/badge/출석률-3%2F6-blue?style=flat-square"/>  
       <br/>
       이보라
       <br/>
@@ -237,7 +237,7 @@
       <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/67853616?v=4" width="100px;" alt="장아연"/>  
       <br/>
-      <img src="https://img.shields.io/badge/출석률-1%2F6-blue?style=flat-square"/>  
+      <img src="https://img.shields.io/badge/출석률-2%2F6-blue?style=flat-square"/>  
       <br/>
       장아연
       <br/>
