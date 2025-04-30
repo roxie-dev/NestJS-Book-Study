@@ -192,7 +192,7 @@
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/79193369?v=4" width="100px;" alt="김민정"/>  
       <br/>
-      <img src="https://img.shields.io/badge/출석률-4%2F6-blue?style=flat-square"/>  
+      <img src="https://img.shields.io/badge/출석률-5%2F6-blue?style=flat-square"/>  
       <br/>
       김민정
       <br/>
@@ -201,7 +201,7 @@
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/59562141?v=4" width="100px;" alt="이지윤"/>  
       <br/>
-      <img src="https://img.shields.io/badge/출석률-4%2F6-blue?style=flat-square"/>  
+      <img src="https://img.shields.io/badge/출석률-5%2F6-blue?style=flat-square"/>  
       <br/>
       이지윤
       <br/>
@@ -210,7 +210,7 @@
     <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/52841715?v=4" width="100px;" alt="위성원"/>  
       <br/>
-      <img src="https://img.shields.io/badge/출석률-3%2F6-blue?style=flat-square"/>  
+      <img src="https://img.shields.io/badge/출석률-4%2F6-blue?style=flat-square"/>  
       <br/>
       위성원
       <br/>
@@ -228,7 +228,7 @@
       <td align="center"> 
       <img src="https://avatars.githubusercontent.com/u/62707089?v=4" width="100px;" alt="이보라"/>  
       <br/>
-      <img src="https://img.shields.io/badge/출석률-3%2F6-blue?style=flat-square"/>  
+      <img src="https://img.shields.io/badge/출석률-4%2F6-blue?style=flat-square"/>  
       <br/>
       이보라
       <br/>
