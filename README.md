@@ -1,5 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/roxie-dev/NestJS-Book-Study?style=social)
- 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=roxie-dev.NestJS-Book-Study)
 
 
 #  <div align="center"> 📖 [NestJS로 배우는 백엔드 프로그래밍] 북 스터디 📖 </div>
